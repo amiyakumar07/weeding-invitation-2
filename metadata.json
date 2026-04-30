@@ -1,0 +1,8 @@
+{
+  "name": "Majestic Eternal Ties - Royal Wedding",
+  "description": "A high-end, immersive digital wedding invitation featuring 3D royal elements, interactive petal bursts, magical confetti reveals, and floating lanterns.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
